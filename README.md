@@ -4,7 +4,6 @@ Kumpulan skrip otomasi Bash untuk mempermudah administrasi, manajemen pengguna m
 
 ---
 
-## 📋 Daftar & Fungsi Skrip
 
 ## 📋 Daftar & Ringkasan Skrip
 

@@ -1,0 +1,15 @@
+# Artefak VZDump & Kompresi
+*.tar.zst
+*.tar.gz
+*.log
+
+# File kerja sementara
+/root/debian-template-tmp/
+*.tmp
+
+# Editor/OS artifacts
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
